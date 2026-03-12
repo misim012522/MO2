@@ -18,7 +18,7 @@ const { width } = Dimensions.get('window');
 const user = {
 	name: 'Juan Dela Cruz',
 	avatar: 'https://randomuser.me/api/portraits/men/1.jpg',
-	balance: '₱6,300.68',
+	balance: '₱0',
 };
 
 const actions = [

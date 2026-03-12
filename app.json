@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "gcash-ui-challenge",
+    "slug": "gcash-ui-challenge",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "sdkVersion": "54.0.0",
+    "platforms": ["ios", "android", "web"]
+  }
+}
